@@ -10,7 +10,7 @@ public class string
 		a="thakur";
 		System.out.println(a); // new memory is created for thakur
 
-        System.out.println("a.charAt(2): " + a.charAt(2)); // character at index 2 't'
+        System.out.println("a.charAt(2): " + a.charAt(2)); // character at index 2 'a'
         System.out.println("a.length(): " + a.length()); // length of string 'thakur' is 6
 	}
 }
